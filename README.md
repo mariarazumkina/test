@@ -1,6 +1,5 @@
-# Project Title
+# Python Course Assignment 1
 
-Python Course Assignment 1
 Counting lines, words, characters
 
 ## Getting Started
